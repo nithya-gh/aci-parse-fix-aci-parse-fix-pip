@@ -1,0 +1,73 @@
+[{
+  "name": "abc123",   
+   "serial":  "AAAAAA",
+  "node_id":  "121",
+  "pod_id":   "1"
+  },
+  {
+  "name": "abc456",   
+   "serial":  "BBBBBB",
+  "node_id":  "122",
+  "pod_id":   "1"
+  },
+  {
+  "name": "abc789",   
+  "serial":   "CCCCCC",
+  "node_id":  "123",
+  "pod_id":   "1"   
+  },
+  {
+  "name": "abc1122",  
+  "serial":   "DDDDDD",
+  "node_id":  "124",
+  "pod_id":   "1"    
+  },
+  {
+  "name": "abc1455",  
+  "serial":   "EEEEEE",
+  "node_id":  "125",
+  "pod_id":   "1"     
+  },
+  {
+  "name": "abc1788",  
+  "serial":   "FFFFFF",
+  "node_id":  "126",
+  "pod_id":   "1"            
+  },
+  {
+  "name": "abc2121",  
+  "serial":   "GGGGGG",
+  "node_id":  "127",
+  "pod_id":   "1"          
+  },
+  {
+  "name": "abc2454",  
+  "serial":   "HHHHHH",
+  "node_id":  "128",
+  "pod_id":   "1"            
+  },
+  {
+  "name": "abc2787",  
+  "serial":   "IIIIIIIIII",
+  "node_id":  "129",
+  "pod_id":   "1"          
+  },
+  {
+  "name": "abc3120",  
+  "serial":   "JJJJJJJJJJ",
+  "node_id":  "130",
+  "pod_id":   "1"      
+  },
+  {
+  "name": "abc3453",  
+  "serial":   "KKKKKKK",
+  "node_id":  "131",
+  "pod_id":   "1"            
+  },
+  {
+  "name": "abc3786",  
+  "serial":   "LLLLLLL",
+  "node_id":  "132",
+  "pod_id":   "1"          
+  }
+  ]
